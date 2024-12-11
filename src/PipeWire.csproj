@@ -25,6 +25,8 @@
   <ItemGroup>
     <!-- The following is recommended for public projects -->
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" PrivateAssets="All" />
+
+    <PackageReference Include="Nix" Version="0.0.1.1" />
   </ItemGroup>
 
 </Project>

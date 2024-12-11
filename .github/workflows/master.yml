@@ -13,7 +13,7 @@ jobs:
 
     strategy:
       matrix:
-        os: [windows, ubuntu, macos]
+        os: [ubuntu]
 
     steps:
       - name: Checkout code
