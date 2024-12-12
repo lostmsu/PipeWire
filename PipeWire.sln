@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PipeWire", "src\PipeWire.cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PipeWire.Tests", "test\PipeWire.Tests.csproj", "{241AC79D-0399-4B2A-9C01-07C609F74B69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frames", "examples\frames\frames.csproj", "{57A19384-7D0E-4451-9270-C7B2E8B22FB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,18 @@ Global
 		{241AC79D-0399-4B2A-9C01-07C609F74B69}.Release|x64.Build.0 = Release|Any CPU
 		{241AC79D-0399-4B2A-9C01-07C609F74B69}.Release|x86.ActiveCfg = Release|Any CPU
 		{241AC79D-0399-4B2A-9C01-07C609F74B69}.Release|x86.Build.0 = Release|Any CPU
+		{57A19384-7D0E-4451-9270-C7B2E8B22FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A19384-7D0E-4451-9270-C7B2E8B22FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A19384-7D0E-4451-9270-C7B2E8B22FB5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{57A19384-7D0E-4451-9270-C7B2E8B22FB5}.Debug|x64.Build.0 = Debug|Any CPU
+		{57A19384-7D0E-4451-9270-C7B2E8B22FB5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{57A19384-7D0E-4451-9270-C7B2E8B22FB5}.Debug|x86.Build.0 = Debug|Any CPU
+		{57A19384-7D0E-4451-9270-C7B2E8B22FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A19384-7D0E-4451-9270-C7B2E8B22FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A19384-7D0E-4451-9270-C7B2E8B22FB5}.Release|x64.ActiveCfg = Release|Any CPU
+		{57A19384-7D0E-4451-9270-C7B2E8B22FB5}.Release|x64.Build.0 = Release|Any CPU
+		{57A19384-7D0E-4451-9270-C7B2E8B22FB5}.Release|x86.ActiveCfg = Release|Any CPU
+		{57A19384-7D0E-4451-9270-C7B2E8B22FB5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
